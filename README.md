@@ -1,2 +1,2 @@
 # Sterowanie rs
- Arduino - steriowanie oinami przez RS
+ Arduino - sterowanie pinami przez RS
